@@ -10,3 +10,6 @@ Computational Biology Department TV Presentation
 - Open `http://localhost:8000` to view your presentation
 - You can change the port by using `npm start -- --port=8001`.
 
+## Instructions for using plugins:
+
+- Copy the file embed-tweet.js (found in reveal.js-plugins/embed-tweet/) into the 'plugin' folder of your reveal.js presentation, i.e. plugin/embed-tweet
